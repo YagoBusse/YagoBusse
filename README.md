@@ -1,7 +1,7 @@
 ### Eaiii, Eu sou o @YagoBusse
 
-- 👀 I’m interested in Front end and Back end
-- 🌱 I’m currently learning JavaScript, Angular, Typescript, React, HTML and Css
+- 👀 I’m interested in Front end and Back
+- 🌱 I’m currently learning JavaScript, Angular, Typescript, React, HTML and Css, Cibercecurety
 
 
 <div align="center">
